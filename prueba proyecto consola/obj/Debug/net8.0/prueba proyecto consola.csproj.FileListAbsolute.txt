@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\bin\Debug\net8.0\prueba proyecto consola.exe
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\bin\Debug\net8.0\prueba proyecto consola.deps.json
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\bin\Debug\net8.0\prueba proyecto consola.runtimeconfig.json
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\bin\Debug\net8.0\prueba proyecto consola.dll
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\bin\Debug\net8.0\prueba proyecto consola.pdb
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.AssemblyInfo.cs
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.dll
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\refint\prueba proyecto consola.dll
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.pdb
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\prueba proyecto consola.genruntimeconfig.cache
+C:\Users\PC\Documents\cs-projects\prueba proyecto consola\prueba proyecto consola\obj\Debug\net8.0\ref\prueba proyecto consola.dll
